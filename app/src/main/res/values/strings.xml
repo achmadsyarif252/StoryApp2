@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_title_tv">Let\'s see their story of learning at Dicoding</string>
+    <string name="message_login_page">Let\'s log in first!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="register">No account yet?</string>
+    <string name="register_txt">Register</string>
+    <string name="title_signup_page">Fill in your personal data first, okay?</string>
+    <string name="name">Name</string>
+    <string name="loginInfo">Have an account?</string>
+    <string name="masuk">Login</string>
+    <string name="register_content_desc">Register page image</string>
+    <string name="logout">Logout</string>
+
+    <string name="gambar_story">Picture story</string>
+    <string name="up_story_text">Story upload button</string>
+    <string name="upload">Upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="txt_uploading">Wait a minute…</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="password_min_length">Password at least 8 characters</string>
+    <string name="success">Success!</string>
+
+    <string name="fill_email">Enter email</string>
+    <string name="fill_password">Enter password</string>
+    <string name="fill_name">Enter name</string>
+    <string name="empty_image_selected">Please insert the image file first.</string>
+    <string name="empty_description">Description is still empty</string>
+    <string name="permission_denied">Not getting permission.</string>
+    <string name="chose_pic">Select an image</string>
+
+    <string name="logout_msg">Are you sure you want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="upload_story">Upload Story</string>
+
+    <string name="register_title">Register</string>
+
+    <string name="success_image_upload">Image uploaded successfully</string>
+    <string name="login_succes">Successful login</string>
+    <string name="register_result_msg">The account is ready. Let\'s log in and see your friends\' exciting stories.</string>
+    <string name="upload_fail">Image failed to upload %1$s</string>
+    <string name="image_prev">Preview Image</string>
+    <string name="setting_language">Language Setting</string>
+    <string name="empty_list">There is no story at this time</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="list_story_page">Detail Story</string>
+    <string name="login_image">Login Image</string>
+    <string name="story_image">Image Story</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="show_maps">Show Map</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="add_location">Include current location</string>
+    <string name="location_empty">Try Again,Location is not found.</string>
+    <string name="title_activity_map_story">MapStory</string>
+    <string name="title_activity_story_app_maps">StoryAppMaps</string>
+    <string name="gps_permission">You must have GPS enabled to use this feature!</string>
+</resources>

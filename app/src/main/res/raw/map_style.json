@@ -1,0 +1,29 @@
+[
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#2ec27e"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.bus",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#1c71d8"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station.rail",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#e01b24"
+      }
+    ]
+  }
+]

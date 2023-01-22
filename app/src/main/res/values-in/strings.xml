@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_title_tv">Yuk,lihat kisah mereka belajar di Dicoding</string>
+    <string name="message_login_page">Kita login dulu yaa..!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+
+    <string name="register">Belum punya akun?</string>
+    <string name="register_txt">Daftar</string>
+    <string name="title_signup_page">Isi dulu data diri kamu, yaa</string>
+    <string name="name">Nama</string>
+    <string name="loginInfo">Sudah punya akun?</string>
+    <string name="masuk">Masuk</string>
+    <string name="register_content_desc">Gambar halaman register</string>
+    <string name="logout">Keluar</string>
+
+    <string name="gambar_story">Gambar story</string>
+    <string name="up_story_text">Tombol unggah story</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="txt_uploading">Tunggu sebentar…</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="password_min_length">Password Minimal 8 Karakter</string>
+    <string name="success">Sukses!</string>
+
+
+    <string name="fill_email">Masukkan email</string>
+    <string name="fill_password">Masukkan kata sandi</string>
+    <string name="fill_name">Masukkan nama</string>
+    <string name="empty_image_selected">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="empty_description">Deskripsi masih kosong</string>
+    <string name="permission_denied">Tidak mendapatkan permission.</string>
+    <string name="chose_pic">Pilih gambar</string>
+
+    <string name="logout_msg">Apakah anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="No">Tidak</string>
+    <string name="upload_story">Unggah Cerita</string>
+
+    <string name="register_title">Daftar</string>
+
+    <string name="success_image_upload">Gambar berhasil diupload</string>
+    <string name="login_succes">Berhasil login</string>
+    <string name="register_result_msg">Akunnya sudah jadi nih. Yuk, login dan lihat cerita seru teman-teman kamu.</string>
+    <string name="upload_fail">Gambar gagal diupload %1$s</string>
+    <string name="image_prev">Pratinjau Gambar</string>
+    <string name="setting_language">Pengaturan Bahasa</string>
+    <string name="empty_list">Tidak ada cerita apapun saat ini</string>
+    <string name="welcome_txt">Selamat Datang</string>
+    <string name="list_story_page">Detail Cerita</string>
+    <string name="login_image">Gambar Login</string>
+    <string name="story_image">Image Story</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="show_maps">Tampilkan Peta</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terreno</string>
+    <string name="hybrid_type">Hibrida</string>
+    <string name="retry">Coba lagi</string>
+    <string name="add_location">Sertakan Lokasi Saat ini</string>
+    <string name="location_empty">Coba Lagi, Lokasi tidak ditemukan.</string>
+    <string name="gps_permission">Anda harus mengaktifkan GPS untuk menggunakan fitur ini!</string>
+    <string name="title_activity_map_story">MapStory</string>
+    <string name="title_activity_story_app_maps">StoryAppMaps</string>
+
+</resources>

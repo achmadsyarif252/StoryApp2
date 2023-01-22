@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_title_tv">Yuk,mirsani criyos piyambakipun sedaya sinau wonten Dicoding </string>
+    <string name="message_login_page">Login rumiyin yaa..! </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Mlebet</string>
+
+    <string name="register">Dereng gadhah akun?</string>
+    <string name="register_txt">Daftar</string>
+    <string name="title_signup_page">isi rumiyin data dhirinipun sampeyan yaa</string>
+    <string name="name">Nami</string>
+    <string name="loginInfo">Sampun gadhah akun?</string>
+    <string name="masuk">Mlebet</string>
+    <string name="register_content_desc">Gambar halaman register</string>
+    <string name="logout">Logout</string>
+
+    <string name="gambar_story">Gambar criyos</string>
+    <string name="up_story_text">Tombol unggah criyos</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="txt_uploading">Tengga sekedhap…</string>
+    <string name="invalid_email">Email ora valid</string>
+    <string name="password_min_length">Tembung sandi minimal 8 karakter </string>
+    <string name="success">Sukses!</string>
+
+    <string name="fill_email">Masukkan email</string>
+    <string name="fill_password">Masukkan tembung sandi </string>
+    <string name="fill_name">Masukkan nami</string>
+    <string name="empty_image_selected">mangga masukkan berkas gambar langkung-langkung rumiyin. </string>
+    <string name="empty_description">Deskripsi taksih kosong </string>
+    <string name="permission_denied">Mboten angsal izin. </string>
+    <string name="chose_pic">Pilih gambar</string>
+
+    <string name="logout_msg">Punapa sampeyan saestu kajeng medal? </string>
+    <string name="yes">Nggih</string>
+    <string name="No">Mboten</string>
+    <string name="upload_story">Unggah Criyos</string>
+
+    <string name="register_title">Daptar</string>
+
+    <string name="success_image_upload">Gambar rampung diupload</string>
+    <string name="login_succes">Bisa login</string>
+    <string name="register_result_msg">Akune sampun dados niki.Yuh,mlebu lan mirsani criyos seru kanca-kancane dhewe</string>
+    <string name="upload_fail">Gambar ora bisa diunggah %1$s</string>
+    <string name="image_prev">Pratinjau Gambare</string>
+    <string name="setting_language">Pengaturan Basa</string>
+    <string name="empty_list">mboten wonten criyos napa mawon wanci puniki</string>
+    <string name="welcome_txt">Sugeng Rawuh</string>
+    <string name="list_story_page">Detail Criyos</string>
+    <string name="login_image">Gambare Login</string>
+    <string name="story_image">Gambar Criyos</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="show_maps">Tampilaken Peta </string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terreno</string>
+    <string name="hybrid_type">Hibrida</string>
+    <string name="retry">Coba Maning</string>
+    <string name="add_location">Sartakaken papan wanci puniki</string>
+    <string name="location_empty">" cobi malih, papan mboten dipunpanggihaken. "</string>
+    <string name="gps_permission">"sampeyan kedah ngaktipaken gps kangge ngangge fitur puniki! "</string>
+    <string name="title_activity_map_story">MapStory</string>
+    <string name="title_activity_story_app_maps">StoryAppMaps</string>
+
+
+</resources>

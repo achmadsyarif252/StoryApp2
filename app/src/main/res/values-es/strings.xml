@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login_title_tv">Veamos su historia de aprendizaje en Dicoding</string>
+    <string name="message_login_page">Conectémonos primero.</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Inicio de sesión</string>
+
+    <string name="register">¿Aún no tiene cuenta?</string>
+    <string name="register_txt">Regístrese en</string>
+    <string name="title_signup_page">Rellene primero sus datos personales</string>
+    <string name="name">Nombre</string>
+    <string name="loginInfo">¿Ya tiene una cuenta?</string>
+    <string name="masuk">Inicio de sesión</string>
+    <string name="register_content_desc">Imagen de la página de registro</string>
+    <string name="logout">Cierre de sesión</string>
+
+    <string name="gambar_story">Reportaje gráfico</string>
+    <string name="up_story_text">Botón de carga de historias</string>
+    <string name="upload">Cargar</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="description">Descripción</string>
+    <string name="txt_uploading">Espera un minuto…</string>
+    <string name="invalid_email">correo no válido</string>
+    <string name="password_min_length">Contraseña de al menos 8 caracteres</string>
+    <string name="success">Éxito!</string>
+
+    <string name="fill_email">Introducir correo electrónico</string>
+    <string name="fill_password">Introduzca la contraseña</string>
+    <string name="fill_name">Introduzca el nombre</string>
+    <string name="empty_image_selected">Inserte primero el archivo de imagen.</string>
+    <string name="empty_description">La descripción sigue vacía</string>
+    <string name="permission_denied">No obtener permiso.</string>
+    <string name="chose_pic">Elija una imagen</string>
+
+    <string name="logout_msg">¿Seguro que quieres dejarlo?</string>
+    <string name="yes">Sí</string>
+    <string name="No">No</string>
+    <string name="upload_story">Cargar historia</string>
+
+    <string name="register_title">Regístrese en</string>
+
+    <string name="success_image_upload">Imagen cargada correctamente</string>
+    <string name="login_succes">Inicio de sesión con éxito</string>
+    <string name="register_result_msg">La cuenta está lista. Conéctate y mira las emocionantes historias de tus amigos.</string>
+    <string name="upload_fail">Error al cargar la imagen %1$s</string>
+    <string name="image_prev">Vista previa de la imagen</string>
+    <string name="setting_language">configuración de idioma</string>
+    <string name="empty_list">No hay historia en este momento</string>
+    <string name="welcome_txt">Bienvenido</string>
+    <string name="list_story_page">Historia detallada</string>
+    <string name="login_image">imagen de acceso</string>
+    <string name="story_image">Historia gráfica</string>
+    <string name="title_activity_maps">Maps Activity</string>
+    <string name="show_maps">Mostrar mapa</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satélite</string>
+    <string name="terrain_type">Terreno</string>
+    <string name="hybrid_type">Híbrido</string>
+    <string name="retry">Reintentar</string>
+    <string name="add_location">Incluir la ubicación actual</string>
+    <string name="location_empty">Inténtelo de nuevo, la ubicación no se encuentra.</string>
+    <string name="gps_permission">Debes tener el GPS activado para utilizar esta función.</string>
+    <string name="title_activity_map_story">MapStory</string>
+    <string name="title_activity_story_app_maps">StoryAppMaps</string>
+
+
+</resources>
